@@ -17,11 +17,17 @@
  ### :mag_right: Looking for opportunities as a Front-end or Back-end Junior Developer 
 </br>
 
+## Some of my works:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=trivia-game-react-redux&theme=dark)](https://github.com/gmcerqueira/trivia-game-react-redux)
+
+[![](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/trivia-game-react-redux/)
+
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gmcerqueira&langs_count=4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=chartreuse-dark&hide=stars,issues)
 
-
+## 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
