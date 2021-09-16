@@ -1,3 +1,6 @@
+
+
+
 # Gustavo Cerqueira
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gmcerqueira/)
@@ -20,12 +23,21 @@
 ## Some of my works:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=trivia-game-react-redux&theme=dark)](https://github.com/gmcerqueira/trivia-game-react-redux)
 
-[![](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/trivia-game-react-redux/)
+[![GitHubPages](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/trivia-game-react-redux/)
+ 
+</br>
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=dark)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
 
+[![GitHubPages](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/starwars-planets-search-context-api/)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gmcerqueira&langs_count=4)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=chartreuse-dark&hide=stars,issues)
+<div>
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcerqueira&langs_count=4&layout=compact&theme=tokyonight"
+  height="150px"
+ />
+ <img  src="https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=tokyonight&hide=stars,issues"  height="150px"/>
+</div>
 
 ## 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
