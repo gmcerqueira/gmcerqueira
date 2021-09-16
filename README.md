@@ -33,16 +33,14 @@
 
 ----
 
-<div>
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcerqueira&langs_count=4&layout=compact&theme=tokyonight"
-  height="180em"
+  height="150em"
  />
  <img  
   src="https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
-  height="180em"
+  height="150em"
  />
-</div>
 
 ----
 
