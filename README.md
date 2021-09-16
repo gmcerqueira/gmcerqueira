@@ -21,25 +21,31 @@
 </br>
 
 ## Some of my works:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=trivia-game-react-redux&theme=dark)](https://github.com/gmcerqueira/trivia-game-react-redux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=trivia-game-react-redux&theme=tokyonight)](https://github.com/gmcerqueira/trivia-game-react-redux)
 
 [![GitHubPages](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/trivia-game-react-redux/)
  
 </br>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=dark)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=tokyonight)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
 
 [![GitHubPages](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/starwars-planets-search-context-api/)
+
+----
 
 <div>
  <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcerqueira&langs_count=4&layout=compact&theme=tokyonight"
-  height="150px"
+  height="180em"
  />
- <img  src="https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=tokyonight&hide=stars,issues"  height="150px"/>
+ <img  
+  src="https://github-readme-stats.vercel.app/api?username=gmcerqueira&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
+  height="180em"
+ />
 </div>
 
-## 
+----
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
