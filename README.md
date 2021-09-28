@@ -17,14 +17,18 @@
 
 ## Some of my works:
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=tokyonight)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
-
-</br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=task-list-api&theme=tokyonight)](https://github.com/gmcerqueira/task-list-api)
 
+[![GitHubPages](https://img.shields.io/badge/Loading...-FECC00?style=for-the-badge)](https://gmcerqueira.github.io/trivia-game-react-redux/)
+
+</br>
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=trivia-game-react-redux&theme=tokyonight)](https://github.com/gmcerqueira/trivia-game-react-redux)
+
 [![GitHubPages](https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmcerqueira.github.io/trivia-game-react-redux/)
- 
+
+</br>
 </br>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=starwars-planets-search-context-api&theme=tokyonight)](https://github.com/gmcerqueira/starwars-planets-search-context-api)
