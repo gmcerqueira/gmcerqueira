@@ -19,8 +19,7 @@
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=task-list-api&theme=tokyonight)](https://github.com/gmcerqueira/task-list-api)
 
-[![GitHubPages](https://img.shields.io/badge/Loading...-FECC00?style=for-the-badge)](https://gmcerqueira.github.io/trivia-game-react-redux/)
-
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://task-list-api-gmc.herokuapp.com/)
 </br>
 </br>
 
