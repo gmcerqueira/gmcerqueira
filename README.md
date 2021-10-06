@@ -16,6 +16,11 @@
 
 ## Some of my works:
  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=task-list-app&theme=tokyonight)](https://github.com/gmcerqueira/task-list-app)
+
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://task-list-app-gmc.herokuapp.com/)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=task-list-api&theme=tokyonight)](https://github.com/gmcerqueira/task-list-api)
 
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://task-list-api-gmc.herokuapp.com/)
