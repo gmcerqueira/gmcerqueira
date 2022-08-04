@@ -12,8 +12,6 @@
 - Movie addict :clapper:
 - Dog, cat or any animal person :dog: :cat: :rabbit: :pig: :unicorn:
 
- ### :mag_right: Looking for opportunities as a Front-end or Back-end Junior Developer 
-
 ## Some of my works:
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmcerqueira&repo=task-list-app&theme=tokyonight)](https://github.com/gmcerqueira/task-list-app)
