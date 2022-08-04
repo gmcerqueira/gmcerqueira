@@ -7,7 +7,7 @@
 
 ## About me:
 
-- Software Development Student at Trybe :computer:
+- Front-End Developer :computer:
 - Civil Engineer graduate :mortar_board:
 - Movie addict :clapper:
 - Dog, cat or any animal person :dog: :cat: :rabbit: :pig: :unicorn:
